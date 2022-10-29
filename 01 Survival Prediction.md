@@ -11,6 +11,7 @@
   organization={IEEE}
 }   
 </code>
+
 ### Problem Statement
 - The radiologic phenotype from MRI are difficult to reproduce because of variability in acquisition and preprocessing pipelines. Despite the evidence of intra-tumor phenotypic heterogeneity, the spatial diversity between different slices within an MRI scan has been relatively unexplored using such methods. 
 
