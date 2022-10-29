@@ -1,7 +1,16 @@
 ## Brain Cancer Survival Prediction Studies 
 
 ## [1] Brain Cancer Survival Prediction on Treatment-Naive MRI using Deep Anchor Attention Learning with Vision Transformer
-
+<code>
+ @inproceedings{xu2022brain,
+  title={Brain Cancer Survival Prediction on Treatment-Na{\"\i}ve MRI using Deep Anchor Attention Learning with Vision Transformer},
+  author={Xu, Xuan and Prasanna, Prateek},
+  booktitle={2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2022},
+  organization={IEEE}
+}   
+</code>
 ### Problem Statement
 - The radiologic phenotype from MRI are difficult to reproduce because of variability in acquisition and preprocessing pipelines. Despite the evidence of intra-tumor phenotypic heterogeneity, the spatial diversity between different slices within an MRI scan has been relatively unexplored using such methods. 
 
