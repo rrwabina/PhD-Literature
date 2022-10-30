@@ -29,8 +29,10 @@
   - Drawback: CL is designed for centralized learning on large-scale datasets with sufficient data diversity. However, when applying CL to FL, the limited data diversity will greatly degrade the performance of the learned model. 
 ### Contributions
 - Proposed an FCL framework for volumetric medical image segmentation with limited annotations
-
+- No data sharing for Federated Learning and leverage the structural similarity of images among clients.
 ### Methodology
 - The FCL consists of two stages (1) feature exchange, (2) global structure matching
 - The feature exchange simply exchange the features of its local data with other clients. It provides more diverse data to compare with for better local contrastive learning while avoiding raw data sharing. 
 - The global structure matching (GSM) leverages structural similarity of 3D images to align similar features among clients for better FCL.
+- Used **<code>MoCo</code>** for local CL since it has a memory bank for negatives, which can leverage local and remote features.
+- Two encoders: (1) Main encoder will be used as the initialization for fine-tuning, (2) Momentum encoder as the variation of the main encoder to generate contrast features. The momentum encoder generates local features from local images - used as local negatives. 
