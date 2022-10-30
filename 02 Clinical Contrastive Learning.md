@@ -2,7 +2,14 @@
 
 ## [1] Federated Contrastive Learning for Volumetric Medical Image Segmentation
 <code>
- 
+@inproceedings{wu2021federated,
+  title={Federated contrastive learning for volumetric medical image segmentation},
+  author={Wu, Yawen and Zeng, Dewen and Wang, Zhepeng and Shi, Yiyu and Hu, Jingtong},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={367--377},
+  year={2021},
+  organization={Springer}
+}
 </code>
 
 ### Problem Statement
