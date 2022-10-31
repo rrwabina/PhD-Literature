@@ -3,7 +3,7 @@
 ## [Summary]
 ### Interesting methods 
 - Reference [2]: Domain Specific Batch Normalization - individually normalize feature maps for the two anatomical domains and use a cross-domain contrastive learning strategy to extract domain invariant features. [https://github.com/wgchang/DSBN]
-
+- Reference [2]: Psuedo-label methods for SSL can be improved using: (a) random propagation, (b) uncertainty-based refinement, (c) adversarial learning-based methods, (d) discriminators, (e) perturbation-based learning
 ## [1] Federated Contrastive Learning for Volumetric Medical Image Segmentation
 <code>
 @inproceedings{wu2021federated,
@@ -54,8 +54,11 @@
 - Previous works on **Domain Adaptation**: adapting a model trained with annotated heart MRI to segment heart CT images.
   - To alleviate the performance gap between the two domains, a widely-used method is to fine-tune the pre-trained models with target domains.
 - Previous works on **Supervised Domain Adaptation**: adapting a model trained with a source domain to a target domain. 
+- SOTA DA methods for medical image segmentation require that the source and target domains have the same set of anatomical structures even they can be from different imaging modalities. 
 ### Contributions
 - Reduce the annotation cost and overcome the problem of limited training images in a target domain, the authors proposed to leverage a dataset for training. They poposed CS-CADA as a generalization of existing semi-supervised and domain adaptation methods.
 - The authors adopted Domain-Specific Batch Normalization to deal with domain shift between the two domains while transferiing knowledge of similar anatomical structures.
+- The authors investigated the cross-anatomy semi-supervised domain adaptaion for medical image segmentation. Compared with the existing domain adaptaion methods that require the segmented objects to be the same in the source and target domains, their method relaxes this requirement and enables adapting a model to segment a different anatomical structure to the source domain.
+- Formulated a regularization framework to leverage unannotated images in the target domain.
 
 ### Methodology
