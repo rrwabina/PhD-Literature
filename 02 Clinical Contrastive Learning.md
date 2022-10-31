@@ -65,3 +65,10 @@
 - Formulated a regularization framework to leverage unannotated images in the target domain.
 
 ### Methodology
+1. Joint Learning with Domain-Specific Batch Normalization 
+- Convolutional kernels are shared across domains $S$ and $T$ to learn general representations for the similar anatomical representations.
+- They introduced DBSN block to the network that consists of two types of Batch Normalization and each of them is in charge of one domain to effectively tackle the inter-domain discrepancy.
+2. Self-ensembling Mean Teacher with DBSN
+- SE-MT to exploit unannotated images in the target domain
+3. Cross Domain Contrastive Learning
+- To capture domain-invariant features for the similar anatomical structures while being robust against the different image styles. 
