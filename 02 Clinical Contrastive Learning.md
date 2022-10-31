@@ -36,3 +36,11 @@
 - The global structure matching (GSM) leverages structural similarity of 3D images to align similar features among clients for better FCL.
 - Used **<code>MoCo</code>** for local CL since it has a memory bank for negatives, which can leverage local and remote features.
 - Two encoders: (1) Main encoder will be used as the initialization for fine-tuning, (2) Momentum encoder as the variation of the main encoder to generate contrast features. The momentum encoder generates local features from local images - used as local negatives. 
+
+
+## [2] Contrastive Semi-supervised Learning for Domain Adaptive Across Similar Anatomical Structures
+
+### Clinical Motivations
+### Technical Motivations
+### Contributions
+### Methodology
