@@ -1,6 +1,6 @@
 ## Contrastive Learning + Federated Learning
 
-## [A] SUMMARY
+## [Summary]
 ### Interesting methods 
 - Reference [2]: Domain Specific Batch Normalization - individually normaize feature maps for the two anatomical domains and use a cross-domain contrastive learning strategy to extract domain invariant features.
 
