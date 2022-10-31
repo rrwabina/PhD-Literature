@@ -13,7 +13,7 @@
 </code>
 
 ### Problem Statement
-
+- Existing Federated Learning models are highly limited across clients because data sharing are private and illegal. Combining a large dataset consisting of very sensitive and private medical data in a single location is impractival as well.
 ### Clinical Motivations
 - Medical image datasets exist in isolated medical centers and hospitals. Combining a large dataset consisting of very sensitive and private medical data in a single location is impractical and illegal. 
 - Federated learning is an effective approach in which distributed clients collaboratively learn a shared model while keeping private raw data local. 
@@ -39,7 +39,8 @@
 
 
 ## [2] Contrastive Semi-supervised Learning for Domain Adaptive Across Similar Anatomical Structures
-
+### Problem Statement
+- Existing Contrastive Learning models are challenged by the cross-anatomy domain shift due to the different appearance and even imaging modalities from the target modalities. 
 ### Clinical Motivations
 ### Technical Motivations
 ### Contributions
