@@ -42,6 +42,11 @@
 ### Problem Statement
 - Existing Contrastive Learning models are challenged by the cross-anatomy domain shift due to the different appearance and even imaging modalities from the target modalities. 
 ### Clinical Motivations
+- CNNs have achieved remarkable progress in medical image segmenation. However, **it requires a large amount of manual annotations for training images, which is highly time-consuming and labor-intensive to collect**. Therefore, the authors desired to reduce the manual annotations using Semi-Supervised Learning, as it only requires a small set of labeled data with the availability of a large set of unlabeled data. Nonetheless, it is still challenging for most existing SSL methods to achieve high performance with a small training set. 
+
 ### Technical Motivations
 ### Contributions
+- Reduce the annotation cost and overcome the problem of limited training images in a target domain, the authors proposed to leverage a dataset for training. They poposed CS-CADA as a generalization of existing semi-supervised and domain adaptation methods.
+- The authors adopted Domain-Specific Batch Normalization to deal with domain shift between the two domains while transferiing knowledge of similar anatomical structures.
+
 ### Methodology
