@@ -4,6 +4,9 @@
 ### Interesting methods 
 - Reference [2]: Domain Specific Batch Normalization - individually normalize feature maps for the two anatomical domains and use a cross-domain contrastive learning strategy to extract domain invariant features. [https://github.com/wgchang/DSBN]
 - Reference [2]: Psuedo-label methods for SSL can be improved using: (a) random propagation, (b) uncertainty-based refinement, (c) adversarial learning-based methods, (d) discriminators, (e) perturbation-based learning
+- Reference [2]: Pseudo-label methods for SSL can be improved using mean teacher (i.e., uses a self-ensembling of a student model as the teacher model, and encourages consistent predictions between the two models). It has also been extended to **Uncertainty-Aware Mean Teacher**.
+
+
 ## [1] Federated Contrastive Learning for Volumetric Medical Image Segmentation
 <code>
 @inproceedings{wu2021federated,
