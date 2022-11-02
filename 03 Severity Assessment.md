@@ -30,3 +30,13 @@
 ### Problem Statement
 - The unprecedented number of patients with COVID19 at times of the pandemic caused an oversaturation of the diagnostic capacities in some hospitals. This is likely due to the inherent challenges with ultrasound, whereby experienced ultrasound may be required to obtain images of sufficient quality, and requisite knowledge is then required to propely interpret the acquired images. 
 - Existing works on Lung Ultrasound Imaging focuses on complete end-to-end training process only. Moreover, other models only focuses in transfer learning and fine-tuning. 
+
+### Clinical Motivation
+- Oversaturation of patients during an epidemic or pandemic may provide several problems on hospital management. 
+
+### Technical Motivation
+- Previous works rely on a complete end-to-end training or extensive fine-tuning protocol, they also require a large amount of computing time and potentially require thorough experimentation to optimize performance for use in practice. This presents real world challenges, especially in obtaining hihg-quality labelled data.
+
+### Methodology
+- The authors utilized Xception, ResNet50, and VGG16 as off-the-shelf pre-trained classification models, which they can fine-tune using their labelled data, comprising of four severity classes.
+- The ImageNet weights were utilized to prevent the need for pre-training, reducing the computational requirements for hits model and preventing the need for pre-training. 
