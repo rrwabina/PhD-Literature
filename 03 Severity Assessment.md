@@ -24,3 +24,9 @@
 - The compound hierarchial segmentation architecture consists of L-Net and C-Net, both of which are under U-Net baseline models. 
 - The authors used Cross Entropy and Dice Loss Functions. To compensate for the imbalance of data, they used the weighted loss.
 - The L-Net: lung cavity is first extracted by L-Net. Then the lung region is partitioned by C-Net into CON and GGO. 
+
+## [2] Rapid Lung Ultrasound COVID-19 Severity Scoring with Resource-Efficient Deep Feature Extraction
+
+### Problem Statement
+- The unprecedented number of patients with COVID19 at times of the pandemic caused an oversaturation of the diagnostic capacities in some hospitals. This is likely due to the inherent challenges with ultrasound, whereby experienced ultrasound may be required to obtain images of sufficient quality, and requisite knowledge is then required to propely interpret the acquired images. 
+- Existing works on Lung Ultrasound Imaging focuses on complete end-to-end training process only. Moreover, other models only focuses in transfer learning and fine-tuning. 
