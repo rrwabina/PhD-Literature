@@ -32,3 +32,7 @@
 - Histopathology --> Image Tile Segmentation
     - These apporahces require detailed annotations at the pixel level.
     - Most algorithms to predict molecular biomarkers rely on **weak supervision**
+- Learning Tile Features
+    - Reliance on transfer learning with CNN pretrained on **ImageNet**
+    - Recent advances in self-supervised learning present another alternative: pretrain a model on tiles from WSIs with a pretext task
+        - **Fingerprinting** that learns features to distinguish one patient from another. Sourced from [Deep learned tissue "fingerprints" classify breast cancers by ER/PR/Her2 status from H&E images](https://www.nature.com/articles/s41598-020-64156-4)
