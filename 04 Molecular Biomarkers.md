@@ -36,3 +36,5 @@
     - Reliance on transfer learning with CNN pretrained on **ImageNet**
     - Recent advances in self-supervised learning present another alternative: pretrain a model on tiles from WSIs with a pretext task
         - **Fingerprinting** that learns features to distinguish one patient from another. Sourced from [Deep learned tissue "fingerprints" classify breast cancers by ER/PR/Her2 status from H&E images](https://www.nature.com/articles/s41598-020-64156-4)
+        - They demonstrated that this representation works better than a fully supervised approach for predicting breast cancer receptor status.
+        - **Contrastive Learning**: Liu et al. proposed a meta contrastive learning framework that iteratively trains a model with cross-entropy and contrastive objectives [31]. The contrastive objective increases intra-class similarity and decreases inter-class similarity.
