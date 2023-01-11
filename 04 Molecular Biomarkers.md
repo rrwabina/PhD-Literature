@@ -38,3 +38,5 @@
         - **Fingerprinting** that learns features to distinguish one patient from another. Sourced from [Deep learned tissue "fingerprints" classify breast cancers by ER/PR/Her2 status from H&E images](https://www.nature.com/articles/s41598-020-64156-4)
         - They demonstrated that this representation works better than a fully supervised approach for predicting breast cancer receptor status.
         - **Contrastive Learning**: Liu et al. proposed a meta contrastive learning framework that iteratively trains a model with cross-entropy and contrastive objectives [31]. The contrastive objective increases intra-class similarity and decreases inter-class similarity.
+    - Transformers have also emerged as an alternative to the CNN. 
+        - Guo et al. trained a Swin-T transformer for predicting MSI and a few other colorectal cancer biomarkers. Their model produced results superior to previously published studies and was significantly more robust than other methods when trained on 50% or 25% of the training set.
