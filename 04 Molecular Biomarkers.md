@@ -40,3 +40,6 @@
         - **Contrastive Learning**: Liu et al. proposed a meta contrastive learning framework that iteratively trains a model with cross-entropy and contrastive objectives [31]. The contrastive objective increases intra-class similarity and decreases inter-class similarity.
     - Transformers have also emerged as an alternative to the CNN. 
         - Guo et al. trained a Swin-T transformer for predicting MSI and a few other colorectal cancer biomarkers. Their model produced results superior to previously published studies and was significantly more robust than other methods when trained on 50% or 25% of the training set.
+- Tile Aggregation
+    - The first step in processing WSIs is selecting which tiles to use for model training. Tiles containing little tissue can easily be discarded by tissue detection methods, and most studies also exclude non-tumor tissue.
+    - The most common method is a simple aggregation of tile predictions using the mean prediction or taking a majority vote. This approach will work well in some cases, but may fail if the tumor is heterogeneous or not all tiles are informative of the biomarker status—for example, if non-tumor tiles are included.
