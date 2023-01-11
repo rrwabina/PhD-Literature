@@ -59,12 +59,15 @@
 - Xu et al. selected representative tiles by clustering all tiles and choosing tiles from each cluster [Using transfer learning on whole slide images to predict tumor mutational burden in bladder cancer patients](https://www.biorxiv.org/content/10.1101/554527v1)
 
 #### While most studies include only tumor tissue, only few studies have experimented the inclusion of non-tumor tiles. 
-- **Inclusion of non-tumor tiles**:  Rawat et al. compared models that used all tissue tiles, epithelium only, stroma only, fat only, or epithelium and stroma for predicting breast cancer receptor status [30]
+- **Inclusion of non-tumor tiles**:  Rawat et al. compared models that used all tissue tiles, epithelium only, stroma only, fat only, or epithelium and stroma for predicting breast cancer receptor status [Deep learned tissue "fingerprints" classify breast cancers by ER/PR/Her2 status from H&E images](https://www.nature.com/articles/s41598-020-64156-4)
 - **Inclusion of non-tumor tiles**: Muti et al. also experimented on which regions of tissue were included in models: the whole slide, tumor only, or a virtual biopsy of a 2 mm wide region of tissue
-- **Inclusion of non-tumor tiles**: Campanella et al. used a semantic segmentation model to locate thirteen different subtypes of tissue. [49]
+- **Inclusion of non-tumor tiles**: Campanella et al. used a semantic segmentation model to locate thirteen different subtypes of tissue. [H&E-based Computational Biomarker Enables Universal EGFR Screening for Lung Adenocarcinoma](https://arxiv.org/abs/2206.10573)
 - **The attention component makes it possible to train with both tumor and non-tumor tiles, allowing the model to identify the discriminative tiles.**
-- **Inclusion of non-tumor tiles**: Schrammen et al. also included slides containing no tumor in their training set. [69]
+- **Inclusion of non-tumor tiles**: Schrammen et al. also included slides containing no tumor in their training set. [ Weakly supervised annotation-free cancer detection and prediction of genotype in routine histopathology](https://pubmed.ncbi.nlm.nih.gov/34561876/)
     - Tissue tiles from non-tumor slides were labeled as non-tumor and tiles in tumor slides were labeled according to their slide label, making this a multiclass model. Their method performed slightly better than a two-class model that uses all tiles (tumor and non-tumor).
 
 ## 2. Magnification for Bottom-Up Approaches
 #### Since cellular details are not visible at lower magnifications, what magnification level should be used?
+- Many studies downsized image tiles to fit the input size of a particular CNN architecture.
+- Others selected a lower magnification for computational efficiency.
+- Wang et al. compared with higher magnifications and found 5× to generally under-perform. Source: [Prediction of BRCA gene mutation in breast cancer based on deep learning and histopathology images](https://pubmed.ncbi.nlm.nih.gov/34354733/) 
