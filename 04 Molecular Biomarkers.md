@@ -43,3 +43,28 @@
 - Tile Aggregation
     - The first step in processing WSIs is selecting which tiles to use for model training. Tiles containing little tissue can easily be discarded by tissue detection methods, and most studies also exclude non-tumor tissue.
     - The most common method is a simple aggregation of tile predictions using the mean prediction or taking a majority vote. This approach will work well in some cases, but may fail if the tumor is heterogeneous or not all tiles are informative of the biomarker status—for example, if non-tumor tiles are included.
+    - La Barbera et al. calculated statistics on the tile predictions to form a single patient-level feature vector on which the second stage classifier was trained to predict HER2 status of breast cancer.
+
+    - Recurrent neural networks (RNNs) have been used to make a prediction after encoding a sequence of tiles.
+        -  A multiple instance learning (MIL) model is chosen to accommodate the latent tile labels.
+    - **An attention model can be applied as a CNN aggregation layer for end-to-end prediction.** In order to fit the entire model on a GPU for training, a subset of tiles must be selected from each WSI.
+
+
+## Challenges
+- Model validation is difficult when large and diverse datasets are not always possible opening up opportunities for bias, batch effects, and poor model generalizability. 
+
+# 1. Tile Selection
+- Some studies have relied upon manual annotations of tumor regions from pathologists. This could take the form of tissue microarray cores that are selected by pathologists or annotated WSIs
+#### Only tumor tiles are inputted to the model.
+- Xu et al. selected representative tiles by clustering all tiles and choosing tiles from each cluster [Using transfer learning on whole slide images to predict tumor mutational burden in bladder cancer patients](https://www.biorxiv.org/content/10.1101/554527v1)
+
+#### While most studies include only tumor tissue, only few studies have experimented the inclusion of non-tumor tiles. 
+- **Inclusion of non-tumor tiles**:  Rawat et al. compared models that used all tissue tiles, epithelium only, stroma only, fat only, or epithelium and stroma for predicting breast cancer receptor status [30]
+- **Inclusion of non-tumor tiles**: Muti et al. also experimented on which regions of tissue were included in models: the whole slide, tumor only, or a virtual biopsy of a 2 mm wide region of tissue
+- **Inclusion of non-tumor tiles**: Campanella et al. used a semantic segmentation model to locate thirteen different subtypes of tissue. [49]
+- **The attention component makes it possible to train with both tumor and non-tumor tiles, allowing the model to identify the discriminative tiles.**
+- **Inclusion of non-tumor tiles**: Schrammen et al. also included slides containing no tumor in their training set. [69]
+    - Tissue tiles from non-tumor slides were labeled as non-tumor and tiles in tumor slides were labeled according to their slide label, making this a multiclass model. Their method performed slightly better than a two-class model that uses all tiles (tumor and non-tumor).
+
+# 2. Magnification for Bottom-Up Approaches
+#### Since cellular details are not visible at lower magnifications, what magnification level should be used?
