@@ -50,10 +50,10 @@
     - **An attention model can be applied as a CNN aggregation layer for end-to-end prediction.** In order to fit the entire model on a GPU for training, a subset of tiles must be selected from each WSI.
 
 
-## Challenges
+# Challenges
 - Model validation is difficult when large and diverse datasets are not always possible opening up opportunities for bias, batch effects, and poor model generalizability. 
 
-# 1. Tile Selection
+## 1. Tile Selection
 - Some studies have relied upon manual annotations of tumor regions from pathologists. This could take the form of tissue microarray cores that are selected by pathologists or annotated WSIs
 #### Only tumor tiles are inputted to the model.
 - Xu et al. selected representative tiles by clustering all tiles and choosing tiles from each cluster [Using transfer learning on whole slide images to predict tumor mutational burden in bladder cancer patients](https://www.biorxiv.org/content/10.1101/554527v1)
@@ -66,5 +66,5 @@
 - **Inclusion of non-tumor tiles**: Schrammen et al. also included slides containing no tumor in their training set. [69]
     - Tissue tiles from non-tumor slides were labeled as non-tumor and tiles in tumor slides were labeled according to their slide label, making this a multiclass model. Their method performed slightly better than a two-class model that uses all tiles (tumor and non-tumor).
 
-# 2. Magnification for Bottom-Up Approaches
+## 2. Magnification for Bottom-Up Approaches
 #### Since cellular details are not visible at lower magnifications, what magnification level should be used?
