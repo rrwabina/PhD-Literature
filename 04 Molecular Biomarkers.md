@@ -11,3 +11,13 @@
 - Results: 
     - LAMB3, FN1, KRT17, KRT19, and ANXA1 were defined as the top five upregulated targets in PC compared with paracancer.
     - Significantly, LAMB3, FN1, KRT19, and ANXA1 but not KRT17 can be considered as biomarkers for survival analysis, univariate and multivariate Cox proportional hazards model, and risk model analysis.
+    - In conclusion, LAMB3, FN1, KRT19, and ANXA1 are good predictors of PC prognosis. Furthermore, FN1 and ANXA1 can be predictors of immunotherapy in PCs.
+
+[2] [Deep Learning-Based Prediction of Molecular Tumor Biomarkers from H&E: A Practical Review](https://www.mdpi.com/2075-4426/12/12/2022/pdf)
+
+- Molecular and genomic properties are critical in selecting cancer treatments to target individual tumors, particularly for immunotherapy. 
+- Molecular biomarkers can be predicted from H&E using the advancements of deep learning: molecular alterations, genomic subtypes, protein biomarkers, and even the presence of viruses.
+- Understanding the subset of patients who may benefit is the key to personalized cancer treatments. Patients can be stratified by a variety of molecular and genomic properties, where each subtype responds to some courses of treatment but not others and tends to have a distinct prognosis.
+
+#### Breast Cancer
+- Breast cancer is a clear example of the effectiveness of precision medicine. Tumors that overexpress the HER2 protein can receive targeted therapy, radically improving the prognosis
