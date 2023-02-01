@@ -21,3 +21,4 @@ Both hospitals and banks have their own specific challenges, for example, in a h
 
 - Vision is what you see in th future. What you aim to be. The vision answers how(?).
 - Mission: What do you do?
+- The strategic point links the vision and mission.  An organization with the same vision and similar mission can have different strategies - depending on their context on what is the best pathway for their organization. The strategy does not care to day-to-day operations. One level below the strategy is the tactical approach - that is, you spell out the high level strategy that are more manageable and concrete. 
