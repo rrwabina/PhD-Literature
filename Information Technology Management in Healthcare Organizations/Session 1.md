@@ -17,3 +17,7 @@
 
 4. What else do I need to know in order to successfully manage IT in your organization?
 Both hospitals and banks have their own specific challenges, for example, in a hospital, there may be more workarounds related to patient care and treatment, while in banks, there may be more workarounds related to financial transactions and customer service. It's important for these organizations to identify and address the root causes of errors and workarounds to prevent them from happening in the future.
+
+
+- Vision is what you see in th future. What you aim to be. The vision answers how(?).
+- Mission: What do you do?
