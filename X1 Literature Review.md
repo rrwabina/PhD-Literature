@@ -7,7 +7,9 @@
 
 ###  Tumor cells acquire part of the configuration of platelets to trick the body into believing they are platelets, enabling them to take over other organs. 
 
-
 ### Research: How tumor cells camouflage to avoid detection in the bloodstream
 - Data from these assays showed that platelets transferred structural components to tumor cells with higher efficiency than tumor cells to platelets (p = 0.001). This biological interplay occurred by direct contact, internalization or via extracellular vesicles. As a result, tumor cells acquired platelet markers (CD61 and CD42), showed decreased EpCAM, expressed epithelial-to-mesenchymal transition markers, and increased proliferation rates. Moreover, we were able to detect CD61 in CTCs from early and advanced prostate cancer. 
+- Rodriguez et al. (2022) observed that platelets were able to transfer RNA to tumor cells by direct contact and by the release of microparticles containing RNA
     - Rodriguez-Martinez, A., Simon-Saez, I., Perales, S., Garrido-Navas, C., Russo, A., de Miguel-Perez, D., Puche-Sanz, I., Alaminos, C., Ceron, J., Lorente, J.A., Molina, M.P., Gonzalez, C., Cristofanilli, M., Ortigosa-Palomo, A., Real, P.J., Rolfo, C., Serrano, M.J. (2022). Exchange of cellular components between platelets and tumor cells: impact on tumor cells behavior. Theranostics, 12(5), 2150-2161. https://doi.org/10.7150/thno.64252.
+
+- Few works have focused on investigating the mechanisms by which tumor cells are directly modified by platelets.
