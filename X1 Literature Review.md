@@ -1,5 +1,3 @@
-
-
 ### Tumor cells pass themselves off as platelets to go undetected in the bloodstream. 
 - This finding constitutes a paradigm shift in terms of how the metastatic process unfolds.
 - Metastatic: the spread of cancer cells from the place where they first formed to another part of the body. Cancer that spreads from where it started to a distant part of the body is called metastatic cancer. For many types of cancer, it is also called stage IV (4) cancer. 
