@@ -1,4 +1,4 @@
 # Writing Thesis Proposal
 
-## Students' experience in writing proposal
+## Student's experience in writing proposal
 

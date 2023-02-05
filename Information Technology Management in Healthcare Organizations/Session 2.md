@@ -1,3 +1,13 @@
+IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues that information technology (IT) has become a commodity, no longer providing companies with a competitive advantage. 
+- Carr argues that IT has become a commodity due to its widespread availability and low cost, making it accessible to all businesses, which means that companies can no longer use IT as a source of differentiation. 
+- Businesses must focus on using IT to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. 
+
+
+### Relate to Political Economy
+- Karl Marx's theory of commodities and the labor theory of value can be seen as foundational idea for Carr's argument. A commodity is a product that has value based on the amount of labor that goes into producing it. Marx believed that commodities only have value if they are unique and provide some sort of competitive advantage. Carr's article can be seen as a contemporary interpretation of Marx's ideas.
+- Carr argues that information technology (IT) has become an infrastructural technology due to its widespread availability and low cost, making it accessible to all businesses. As a result, IT can no longer be considered a source of competitive advantage for companies. Instead, companies must focus on using IT as a means of supporting their unique business processes, cultures, and strategies in order to achieve a competitive advantage.
+- Marx's theory of contradiction suggests that this change in the IT industry is the result of conflicting forces within the industry. On one hand, there is the drive to make IT accessible and available to all businesses, which has led to its commoditization. On the other hand, there is the need for companies to differentiate themselves from their competitors and find unique sources of competitive advantage. These opposing forces can be seen as the source of the contradiction within the IT industry, and they are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage. In conclusion, Marx's theory of contradiction can be seen as a way to understand the changes that have taken place in the IT industry as described in Carr's article "IT Doesn't Matter." The theory suggests that the commoditization of IT is the result of conflicting forces within the industry, and that these conflicting forces are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage.
+
 
 
 ### 1. Assertion: IT has lost its strategic value.
