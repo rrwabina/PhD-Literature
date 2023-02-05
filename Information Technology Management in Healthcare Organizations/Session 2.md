@@ -1,7 +1,13 @@
 IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues that information technology (IT) has become a commodity, no longer providing companies with a competitive advantage. 
 - Carr argues that IT has become a commodity due to its widespread availability and low cost, making it accessible to all businesses, which means that companies can no longer use IT as a source of differentiation. 
 - Businesses must focus on using IT to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. 
+- Carr suggests that companies should use IT as a tool to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. This means that companies should focus on using IT to support their operations and to create a unique competitive advantage, rather than relying on IT as a source of differentiation in and of itself.
 
+### Strategic Enabler vs Source of Competitive Advantage
+- A "strategic enabler" is a tool or resource that enables a company to achieve its goals and objectives, but does not provide a competitive advantage in and of itself. In other words, a strategic enabler is a means to an end, but not an end in itself.
+- On the other hand, a "source of competitive advantage" is something that provides a company with an edge over its competitors, enabling it to differentiate itself in the market and gain a strategic advantage. It is a unique capability or characteristic that sets a company apart from its competitors and provides it with a sustainable advantage.
+- **The key difference between a strategic enabler and a source of competitive advantage is that a strategic enabler enables a company to achieve its goals, while a source of competitive advantage gives a company a unique advantage in the market.**
+    - For example, in the context of information technology (IT), IT can be a strategic enabler if it is used to automate a company's production processes or to support its supply chain management processes. However, IT can be a source of competitive advantage if a company uses it to develop a unique and innovative product or service.
 
 ### Relate to Political Economy
 - Karl Marx's theory of commodities and the labor theory of value can be seen as foundational idea for Carr's argument. A commodity is a product that has value based on the amount of labor that goes into producing it. Marx believed that commodities only have value if they are unique and provide some sort of competitive advantage. Carr's article can be seen as a contemporary interpretation of Marx's ideas.
