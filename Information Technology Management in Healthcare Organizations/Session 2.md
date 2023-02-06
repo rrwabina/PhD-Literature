@@ -2,6 +2,8 @@ IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues tha
 - Carr argues that IT has become a commodity due to its widespread availability and low cost, making it accessible to all businesses, which means that companies can no longer use IT as a source of differentiation. 
 - Businesses must focus on using IT to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. 
 - Carr suggests that companies should use IT as a tool to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. This means that companies should focus on using IT to support their operations and to create a unique competitive advantage, rather than relying on IT as a source of differentiation in and of itself.
+- **If IT doesn’t solve all their business problems, then it must not matter, at least in terms of strategic value.**
+- Carr argued that companies that built railroads and electricity grids in the 19th and early 20th centuries were able to achieve a competitive advantage by having access to these new technologies. However, as these technologies became more widely available, the advantages associated with them diminished, and companies were no longer able to achieve a sustained competitive advantage through their use.
 
 ### Strategic Enabler vs Source of Competitive Advantage
 - A "strategic enabler" is a tool or resource that enables a company to achieve its goals and objectives, but does not provide a competitive advantage in and of itself. In other words, a strategic enabler is a means to an end, but not an end in itself.
@@ -9,11 +11,29 @@ IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues tha
 - **The key difference between a strategic enabler and a source of competitive advantage is that a strategic enabler enables a company to achieve its goals, while a source of competitive advantage gives a company a unique advantage in the market.**
     - For example, in the context of information technology (IT), IT can be a strategic enabler if it is used to automate a company's production processes or to support its supply chain management processes. However, IT can be a source of competitive advantage if a company uses it to develop a unique and innovative product or service.
 
+### Diminishing Returns
+- In the context of IT, Carr argues that as IT becomes more widespread and commoditized, the marginal benefit of investing in IT decreases. This is because as more and more companies invest in IT, it becomes less of a source of competitive advantage and more of a commodity that companies must have simply to keep up with their competitors.
+- Carr suggests that as the marginal benefit of IT investment decreases, companies may find that they are overspending on IT without achieving the desired benefits. This is because IT is no longer a source of competitive advantage and is becoming increasingly commoditized. The result is a diminishing return on investment in IT, as companies receive less and less value from each additional dollar they spend on IT.
+
+### IT Overspending
+- Nicholas Carr argues that overspending on IT can be harmful to a company because it diverts resources away from more important investments and initiatives that can create real competitive advantage.
+- It becomes less of a source of competitive advantage and more of a commodity that companies must have simply to keep up with their competitors.
+- This can divert resources away from other investments and initiatives that could create real competitive advantage, such as research and development, marketing, or employee training and development.
+
+### Rebutall from Critics
+- Critics of Nicholas Carr's article "IT Doesn't Matter" argue that Carr's perspective is overly pessimistic and fails to fully appreciate the potential benefits of IT investment. Some of the key points of Carr's critics include:
+
+1. IT can still be a source of competitive advantage: Critics argue that while IT may have become more commoditized, it can still provide companies with a competitive advantage if they use it in innovative and strategic ways. For example, companies that use data analytics to gain valuable insights into customer behavior and preferences can achieve a competitive advantage over their competitors.
+2. IT is more important than ever: Critics argue that in today's digital age, IT has become even more important for companies to remain competitive and succeed. Companies that do not invest in IT risk falling behind their competitors and losing market share.
+3. IT investment is necessary for innovation: Critics argue that IT investment is necessary for companies to innovate and develop new products, services, and business models. Companies that do not invest in IT may find it difficult to keep up with the pace of technological change and remain competitive.
+4. IT investment can improve business processes: Critics argue that IT investment can help companies streamline their operations, increase efficiency, and improve overall business processes. This can lead to cost savings, increased productivity, and improved customer satisfaction.
+
+
+
 ### Relate to Political Economy
 - Karl Marx's theory of commodities and the labor theory of value can be seen as foundational idea for Carr's argument. A commodity is a product that has value based on the amount of labor that goes into producing it. Marx believed that commodities only have value if they are unique and provide some sort of competitive advantage. Carr's article can be seen as a contemporary interpretation of Marx's ideas.
 - Carr argues that information technology (IT) has become an infrastructural technology due to its widespread availability and low cost, making it accessible to all businesses. As a result, IT can no longer be considered a source of competitive advantage for companies. Instead, companies must focus on using IT as a means of supporting their unique business processes, cultures, and strategies in order to achieve a competitive advantage.
 - Marx's theory of contradiction suggests that this change in the IT industry is the result of conflicting forces within the industry. On one hand, there is the drive to make IT accessible and available to all businesses, which has led to its commoditization. On the other hand, there is the need for companies to differentiate themselves from their competitors and find unique sources of competitive advantage. These opposing forces can be seen as the source of the contradiction within the IT industry, and they are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage. In conclusion, Marx's theory of contradiction can be seen as a way to understand the changes that have taken place in the IT industry as described in Carr's article "IT Doesn't Matter." The theory suggests that the commoditization of IT is the result of conflicting forces within the industry, and that these conflicting forces are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage.
-
 
 
 ### 1. Assertion: IT has lost its strategic value.
