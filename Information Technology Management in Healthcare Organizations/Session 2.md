@@ -1,3 +1,9 @@
+## Assignment
+1. Briefly summarize the 'It Doesn't Matter' Paper.
+2. Discuss whether your agree or disagree in principle to the points raised in the paper. Why or why not?
+3. In specialized context, such as health IT, do you agree or disagree to the points raised in the paper? Why or why not?
+
+
 IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues that information technology (IT) has become a commodity, no longer providing companies with a competitive advantage. 
 - Carr argues that IT has become a commodity due to its widespread availability and low cost, making it accessible to all businesses, which means that companies can no longer use IT as a source of differentiation. 
 - Businesses must focus on using IT to support their unique business processes, cultures, and strategies in order to achieve a competitive advantage. 
@@ -28,19 +34,29 @@ IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues tha
 3. IT investment is necessary for innovation: Critics argue that IT investment is necessary for companies to innovate and develop new products, services, and business models. Companies that do not invest in IT may find it difficult to keep up with the pace of technological change and remain competitive.
 4. IT investment can improve business processes: Critics argue that IT investment can help companies streamline their operations, increase efficiency, and improve overall business processes. This can lead to cost savings, increased productivity, and improved customer satisfaction.
 
-
-
 ### Relate to Political Economy
 - Karl Marx's theory of commodities and the labor theory of value can be seen as foundational idea for Carr's argument. A commodity is a product that has value based on the amount of labor that goes into producing it. Marx believed that commodities only have value if they are unique and provide some sort of competitive advantage. Carr's article can be seen as a contemporary interpretation of Marx's ideas.
 - Carr argues that information technology (IT) has become an infrastructural technology due to its widespread availability and low cost, making it accessible to all businesses. As a result, IT can no longer be considered a source of competitive advantage for companies. Instead, companies must focus on using IT as a means of supporting their unique business processes, cultures, and strategies in order to achieve a competitive advantage.
 - Marx's theory of contradiction suggests that this change in the IT industry is the result of conflicting forces within the industry. On one hand, there is the drive to make IT accessible and available to all businesses, which has led to its commoditization. On the other hand, there is the need for companies to differentiate themselves from their competitors and find unique sources of competitive advantage. These opposing forces can be seen as the source of the contradiction within the IT industry, and they are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage. In conclusion, Marx's theory of contradiction can be seen as a way to understand the changes that have taken place in the IT industry as described in Carr's article "IT Doesn't Matter." The theory suggests that the commoditization of IT is the result of conflicting forces within the industry, and that these conflicting forces are driving the development of new systems and structures that will allow companies to differentiate themselves and achieve a competitive advantage.
 
-
+# Important Notes from Critics
 ### 1. Assertion: IT has lost its strategic value.
 - IT has become more commoditized and that the cost of acquiring and maintaining IT systems has decreased, making it less of a source of competitive advantage. As a result, companies are less likely to create proprietary systems that give them a strategic advantage.
 - Rebuttal: Other experts argue that IT can still be a source of strategic value for companies that use it effectively. For example, companies can use IT to create new business models, processes, and products that are difficult for competitors to imitate. IT can also be used to drive innovation and improve customer experience.
 - In conclusion, the strategic value of IT is complex and dependent on many factors, including how companies use it, their competitive position, and the overall market conditions. While some experts argue that IT has lost its strategic value, others believe that it is still a valuable tool for companies that use it effectively.
 
-
 ### 2. Assertion: IT is a commodity that does not offer a competitive distinction and therefore does not provide a competitive advantage.
 -  Some experts argue that IT has become more commoditized and that the cost of acquiring and maintaining IT systems has decreased, making it less of a source of competitive advantage. As a result, companies are less likely to create proprietary systems that give them a strategic advantage. 
+
+
+
+
+Philippine Genome Center: 'To be the premier institution on relevant translational multi-omics research and services in the country that is responsive to the needs of the Filipinos and the society by 2025'
+SMART Criteria
+• Specific? Yes. They focus on being the premier institution on translational multi-omics research
+• Measurable?
+• Achievable/Attainable? Yes, it is possible that this institution can reach it. 
+• Relevant/Realistic/Resourced? Responsive to the needs of the Filipinos
+• Time-bound? Yes by 2025.
+
+
