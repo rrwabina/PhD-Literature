@@ -1,4 +1,5 @@
 ## Assignment
+Instructions: Please provide the necessary and sufficient reasoning.
 1. Briefly summarize the 'It Doesn't Matter' Paper.
 2. Discuss whether your agree or disagree in principle to the points raised in the paper. Why or why not?
 3. In specialized context, such as health IT, do you agree or disagree to the points raised in the paper? Why or why not?
