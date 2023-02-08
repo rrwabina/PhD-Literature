@@ -55,7 +55,7 @@ IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues tha
 Philippine Genome Center: 'To be the premier institution on relevant translational multi-omics research and services in the country that is responsive to the needs of the Filipinos and the society by 2025'
 SMART Criteria
 • Specific? Yes. They focus on being the premier institution on translational multi-omics research
-• Measurable?
+• Measurable? translational multi-omics research
 • Achievable/Attainable? Yes, it is possible that this institution can reach it. 
 • Relevant/Realistic/Resourced? Responsive to the needs of the Filipinos
 • Time-bound? Yes by 2025.
