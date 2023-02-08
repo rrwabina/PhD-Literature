@@ -3,6 +3,7 @@ Instructions: Please provide the necessary and sufficient reasoning.
 1. Briefly summarize the 'It Doesn't Matter' Paper.
 2. Discuss whether your agree or disagree in principle to the points raised in the paper. Why or why not?
 3. In specialized context, such as health IT, do you agree or disagree to the points raised in the paper? Why or why not?
+    - Can focus on four quanrants of hospital IT, is it beneficial to administrative, strategic, operational, and/or clinicl quadrant?
 
 
 IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues that information technology (IT) has become a commodity, no longer providing companies with a competitive advantage. 
@@ -50,14 +51,21 @@ IT Doesn't Matter is an article written by Nicholas Carr in 2003 that argues tha
 -  Some experts argue that IT has become more commoditized and that the cost of acquiring and maintaining IT systems has decreased, making it less of a source of competitive advantage. As a result, companies are less likely to create proprietary systems that give them a strategic advantage. 
 
 
-
+Three 'what if' cases:
+1. Best-case scenarios
+2. Base-case scenarios
+3. Worst-case
 
 Philippine Genome Center: 'To be the premier institution on relevant translational multi-omics research and services in the country that is responsive to the needs of the Filipinos and the society by 2025'
 SMART Criteria
+
+They usually fall under the administrative control of the Department of Higher Education.
+
 • Specific? Yes. They focus on being the premier institution on translational multi-omics research
 • Measurable? translational multi-omics research
 • Achievable/Attainable? Yes, it is possible that this institution can reach it. 
 • Relevant/Realistic/Resourced? Responsive to the needs of the Filipinos
 • Time-bound? Yes by 2025.
 
-
+Strategic Positioning
+- 
